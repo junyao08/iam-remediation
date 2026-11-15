@@ -1,0 +1,26 @@
+# Diagram source & temp files (keep exported architecture.png only)
+*.drawio
+*.drawio.bkp
+*.drawio.dtmp
+
+# Terraform working directories, state, and plan files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfplan.*
+.terraform.lock.hcl
+crash.log
+crash.*.log
+
+# Build artifacts & local secrets
+*.zip
+.env
+*.pem
+*.key
+
+# Python & OS junk
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
