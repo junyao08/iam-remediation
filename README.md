@@ -37,7 +37,7 @@ In AWS, **IAM User Access Keys** (`AKIA...`) are static, long-lived programmatic
 
 ## System Architecture
 
-![Event-Driven Threat Detection and Automated IAM Access Key Remediation Architecture](./architecture.png)
+![Event-Driven Threat Detection and Automated IAM Access Key Remediation Architecture](./iam-remediation-architecture-diagram.png)
 
 ---
 
