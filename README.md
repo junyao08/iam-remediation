@@ -12,7 +12,7 @@ Event-driven cloud security control that intercepts `iam:CreateAccessKey` API ca
 
 ## Architecture
 
-![Automated IAM Access Key Remediation Architecture](./architecture.png)
+![Automated IAM Access Key Remediation Architecture](./iam-remediation-architecture-diagram.png)
 
 ### How It Works
 
