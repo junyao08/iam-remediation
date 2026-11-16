@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Event-Driven Threat Detection & Automated IAM Access Key Remediation
 
 ![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.10.0-623CE4?style=flat-square&logo=terraform&logoColor=white)
